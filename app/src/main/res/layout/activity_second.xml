@@ -64,8 +64,7 @@
                 app:layout_constraintBottom_toTopOf="@+id/league"
                 app:layout_constraintStart_toEndOf="@+id/barrierImage"
                 app:layout_constraintTop_toTopOf="parent"
-                app:layout_constraintVertical_chainStyle="packed"
-                tools:text="28. Apr. 15:30 Uhr" />
+                app:layout_constraintVertical_chainStyle="packed" />
 
             <TextView
                 android:id="@+id/league"
@@ -78,8 +77,7 @@
                 app:layout_constraintBottom_toBottomOf="parent"
                 app:layout_constraintEnd_toStartOf="@+id/buttonClose"
                 app:layout_constraintStart_toStartOf="@+id/date"
-                app:layout_constraintTop_toBottomOf="@+id/date"
-                tools:text="1. Bundesliga - Week 26" />
+                app:layout_constraintTop_toBottomOf="@+id/date" />
 
             <android.support.constraint.Barrier
                 android:id="@+id/barrierLeft"
