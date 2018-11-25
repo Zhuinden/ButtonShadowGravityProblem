@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="sign_in_button_disabled_background_light">#F5F5F5</color>
+    <color name="sign_in_button_disabled_background_dark">#E1E1E1</color>
+    <color name="sign_in_button_disabled_border">#DCDCDC</color>
+    <color name="blue">#00A2FF</color>
+    <color name="blue_shadow">#0089D9</color>
+
+    <color name="colorTextPrimary">#212121</color>
+    <color name="colorTextSecondary">#757575</color>
+    <color name="colorTextTertiary">#909090</color>
+
+    <color name="white">#FFFFFF</color>
+    <color name="button_line_green">#008800</color>
+
+    <color name="gameDetailsPageIndicatorActive">@color/white</color>
+    <color name="gameDetailsPageIndicatorInactive">#464D51</color>
+
+    <color name="button_line_blue">#0081CC</color>
+</resources>

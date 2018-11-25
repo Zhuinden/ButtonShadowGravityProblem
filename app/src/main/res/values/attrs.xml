@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="CustomButton">
+        <attr name="leftLineEnabled" format="boolean" />
+        <attr name="leftColor" format="color" />
+        <attr name="lineColor" format="color" />
+        <attr name="shadowMode" />
+        <attr name="showLineMode" />
+    </declare-styleable>
+
+    <attr name="shadowMode" format="enum">
+        <enum name="arc" value="0" />
+        <enum name="line" value="1" />
+    </attr>
+
+    <attr name="showLineMode" format="enum">
+        <enum name="ifEnabled" value="0" />
+        <enum name="always" value="1" />
+        <enum name="never" value="2" />
+    </attr>
+</resources>
